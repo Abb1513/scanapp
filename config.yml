@@ -1,29 +1,20 @@
 ---
 # eureka 注册地址
-eurekaUrl: 'http://10.0.1.231:8761/eureka/apps/'
+eurekaUrl: 'http://xxx.xxx.xxx.xxx:8761/eureka/apps/'
 
 
 # 中台服务器列表
 mtList:
-  - 10.0.1.48
-  - 10.0.1.49
-  - 10.0.1.50
-  - 10.0.1.51
-  - 10.0.1.52
-  - 10.0.1.53
-  - 10.0.1.54
+  - xxx.xxx.xxx.xxx
+
 
 
 # 前台服务器列表
 ftList:
-  - 10.0.1.55
-  - 10.0.1.56
-  - 10.0.1.57
-  - 10.0.1.58
-  - 10.0.1.59
-  - 10.0.1.62
+  - xxx.xxx.xxx.xxx
+
 
 
 
 # consul 地址
-consulUrl: '192.168.11.50:8500'
+consulUrl: 'xxx.xxx.xxx.xxx:8500'
